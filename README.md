@@ -10,5 +10,5 @@ run:
 run node.js server:
 npm run server
 
-run react native app
+run react native app:
 npm start
